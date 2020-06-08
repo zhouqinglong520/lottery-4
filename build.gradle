@@ -1,0 +1,5 @@
+dependencies {
+    compile project(':core')
+
+    implementation group: 'com.aliyun.oss', name: 'aliyun-sdk-oss', version: '3.3.0'
+}
